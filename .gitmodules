@@ -1,0 +1,3 @@
+[submodule "Repository-B"]
+	path = Repository-B
+	url = https://github.com/atharvakishornaik/Repository-B.git
